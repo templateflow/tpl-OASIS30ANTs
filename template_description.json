@@ -1,0 +1,15 @@
+{
+  "name": "OASIS30 - Generated with ANTs for MICCAI 2016",
+  "version": "1.0.0",
+  "id": "OASIS30ANTs",
+  "authors": ["Avants BB", "Tustison NJ", "Song G", "Cook PA", "Klein A", "Gee JC"],
+  "citation": ["10.1016/j.neuroimage.2010.09.025", "10.1162/jocn.2007.19.9.1498"],
+  "res": {
+    "01": {
+      "shape": [216, 291, 256],
+      "origin": [-215.0, -293.0, -255.0],
+      "zooms": [1.0, 1.0, 1.0]
+    }
+  },
+  "url": "https://figshare.com/articles/ANTs_ANTsR_Brain_Templates/915436"
+}
