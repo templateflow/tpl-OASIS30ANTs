@@ -1,14 +1,15 @@
 {
   "Authors": ["Avants BB", "Tustison NJ", "Song G", "Cook PA", "Klein A", "Gee JC"],
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "The first two publications indexed by the ReferencesAndLinks field should be referenced when using this atlas.",
+  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1, 2}",
   "Identifier": "OASIS30ANTs",
   "License": "CC BY 4.0",
   "Name": "OASIS30 - Generated with ANTs for MICCAI 2016",
-  "ReferencesAndLinks": [
-    "https://doi.org/10.1016/j.neuroimage.2010.09.025",
-    "https://doi.org/10.1162/jocn.2007.19.9.1498",
-    "https://figshare.com/articles/ANTs_ANTsR_Brain_Templates/915436"],
+  "ReferencesAndLinks": {
+    "1": "https://doi.org/10.1016/j.neuroimage.2010.09.025",
+    "2": "https://doi.org/10.1162/jocn.2007.19.9.1498",
+    "3": "https://figshare.com/articles/ANTs_ANTsR_Brain_Templates/915436"
+  },
   "TemplateFlowVersion": "1.0.0",
   "res": {
     "01": {
