@@ -1,1 +1,1 @@
-5a3ce762-e5e9-472d-863f-b66f56da25be bucket=public-s3-5a3ce762-e5e9-472d-863f-b66f56da25be datacenter=US encryption=none exporttree=yes fileprefix=tpl-MNIInfant/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1583952370.149573s
+5a3ce762-e5e9-472d-863f-b66f56da25be bucket=public-s3-5a3ce762-e5e9-472d-863f-b66f56da25be datacenter=US encryption=none exporttree=yes fileprefix=tpl-MNIInfant/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1583952432.967353s
