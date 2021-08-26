@@ -1,0 +1,1 @@
+1c987f68-a9b8-4beb-9ecf-1d957d1b5cd1 autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-Fischer344/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 versioning=yes timestamp=1596099291.076537s
