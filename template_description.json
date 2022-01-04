@@ -16,6 +16,7 @@
     "https://doi.org/10.1162/jocn.2007.19.9.1498",
     "https://figshare.com/articles/ANTs_ANTsR_Brain_Templates/915436"
   ],
+  "Species": "Homo sapiens",
   "TemplateFlowVersion": "1.0.0",
   "res": {
     "01": {
