@@ -1,1 +1,2 @@
+9e1f586a-b1cf-4bd4-841a-a5e64016244a autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-NKI/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1641385246.988839s
 c771fd8b-e9f0-4d2a-9bee-2c24c2c7b456 bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-NKI/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1641381132.033083s
