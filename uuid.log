@@ -4,6 +4,7 @@
 0437b8f5-1372-48ef-98ce-d7073212f3dd oesteban@dendrite:~/datalad/templateflow/tpl-OASIS30ANTs timestamp=1583952106.229742s
 06e04cd1-2c49-4df7-9942-5b18b1c00fb6 runner@fv-az50:~/work/tpl-MNI152Lin/tpl-MNI152Lin/templateflow timestamp=1587662980.402228s
 09839794-5580-45d4-9d18-2dfd27b4cdba root@be82bd5e1d72:/github/workspace/templateflow timestamp=1639561559.507009s
+0b63e621-828e-4879-9dee-1b03d5fde2e4 MNI Infant Atlases 0-4.5yr timestamp=1559677578.688687021s
 0b7a2322-03d2-49e1-8171-d959fdb9ff63 oesteban@dendrite:~/datalad/templateflow timestamp=1629991822.717622s
 0bdc07e1-d1a9-4590-ace4-69ff74475191 oesteban@dendrite:~/tmp/templateflow timestamp=1574707512.887871s
 0f0eb9f3-6988-4ab5-bbba-206ccae88a57 root@fca616d6f07a:/github/workspace/templateflow timestamp=1639296054.305228s
@@ -32,6 +33,7 @@
 383314ed-9b48-44c5-8dd6-61d85e8130f8 root@8b2c9c0b38de:/github/workspace/templateflow timestamp=1639524942.796936s
 387937b4-234a-4182-b026-3f24aa44cbe6 root@c21b2335a067:/github/workspace/templateflow timestamp=1641327629.556276s
 3b7cd122-ab37-4854-a006-98876bf8fe7a root@44da050e86bd:/github/workspace/templateflow timestamp=1641324813.094984s
+3f3f695b-e4a6-4635-938c-d7790fac5209 oesteban@dendrite:~/datalad/templateflow/tpl-MNIInfant timestamp=1629991837.036323s
 417daef7-d04b-4576-96f1-38b4bd09a3fb runner@fv-az50:~/work/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym/templateflow timestamp=1587665491.803561s
 4268a506-8f97-4f1b-967c-6367cd32bd24 runner@fv-az177-346:~/work/tpl-fsaverage/tpl-fsaverage/templateflow timestamp=1630012546.987345s
 47e584a0-41f5-4a69-a2d8-103ee11eeb5d root@0b3ae572ff90:/github/workspace/templateflow timestamp=1641283569.323014s
@@ -40,6 +42,7 @@
 4afacc7c-69ce-4839-861b-cc31febb7d2d root@ea8523b2f553:/github/workspace/templateflow timestamp=1639295985.812102s
 4d2934ae-2f14-487a-b080-70cafcebb8f6 rastko@Rastkos-MacBook-Pro.local:~/Downloads/tpl-MNI152Lin timestamp=1544880035.041197s
 5051dd1f-b5e4-47e2-89e4-989c070aa543 git@82709b2ed170:/data/repos/templateflow/tpl-oasis30ants.git timestamp=1630071169.723082204s
+51413a32-2209-451f-a237-9a60a524218a git@8242caf9acd8:/data/repos/templateflow/tpl-mniinfant.git timestamp=1630071317.454353972s
 53cc586a-0d60-4e5c-9574-9e7e4b667775 root@5ce720f6edc4:/templateflow timestamp=1630441396.404094s
 575be514-3a9b-45a3-afb6-99bdb3d71340 root@77746fdfe18c:/github/workspace/templateflow timestamp=1630503008.38235s
 578dce89-b369-4775-ba0f-a3791676940e git@8242caf9acd8:/data/repos/templateflow/tpl-fischer344.git timestamp=1630070709.35914032s
@@ -48,6 +51,7 @@
 59f7d178-ec86-47c2-80d6-11e82177b786 root@c5b14eefe3ab:/github/workspace/templateflow timestamp=1630533354.393209s
 5a0a6cec-9af1-4f4a-ad56-7d48a19ed2f3 root@d2445df58e5b:/github/workspace/templateflow timestamp=1630529756.095144s
 5a260b8a-8e3c-4df3-a4b7-a5623404a332 root@1d0af23111f0:/github/workspace/templateflow timestamp=1641325422.690911s
+5a3ce762-e5e9-472d-863f-b66f56da25be public-s3 timestamp=1559684164.710526022s
 5b782e57-fd88-4e65-9985-c77f8a406840 root@979fcebdc29a:/github/workspace/templateflow timestamp=1641325272.601646s
 5b8bdb48-53cf-4a99-b1f9-8e8af7bc7d24 oesteban@dendrite:~/datalad/templateflow/tpl-Fischer344 timestamp=1629991824.440664s
 5e16ed4c-8086-4ae9-b740-c1fb19fc565a oesteban@dendrite:~/templateflow timestamp=1546143263.707124989s
@@ -62,6 +66,7 @@
 64ec3fc6-f642-4d7b-a148-870ce7161d04 root@a89a31b55c21:/github/workspace/templateflow timestamp=1636840263.737621s
 69be088a-27a4-496a-b526-2549da42ead0 root@82d03077579f:/github/workspace/templateflow timestamp=1641325193.63815s
 6da28ea4-8068-4341-8876-fa58862b6645 runner@fv-az76:~/work/tpl-MNI152Lin/tpl-MNI152Lin/templateflow timestamp=1587662107.356196s
+70ce180e-ca51-4dad-a825-6c824b76f40a oesteban@dendrite:~/datalad/templateflow/tpl-MNIInfant timestamp=1583952102.029641s
 70d2c603-5115-4cdb-bf5a-dcc199632304 oesteban@dendrite:~/datalad/templateflow/tpl-MNI152Lin timestamp=1629991826.321971s
 746998d3-1190-4504-bc32-e083fd7539b0 root@2fac8fd882e1:/github/workspace/templateflow timestamp=1641295950.793863s
 74c262a5-9207-42b9-9ce5-a3c3d724023f runner@fv-az133-408:~/work/tpl-MNIPediatricAsym/tpl-MNIPediatricAsym/templateflow timestamp=1630012479.399555s
@@ -93,6 +98,7 @@
 997ce40c-eec4-4f12-ae01-e13299bfa48f oesteban@oscars-MacBook-Pro.local:~/templateflow timestamp=1636828521.649346s
 9a773928-28e4-457e-b9fe-d78165c8ca75 oesteban@dendrite:~/datalad/templateflow timestamp=1539664043.742292172s
 9b2e0df4-034f-4084-adf0-46de46589b5e root@f2deee023c9c:/github/workspace/templateflow timestamp=1641327082.272371s
+9c39d4fb-8398-4433-b243-d3b84e89b9b6 mathiasg@PSY-C02ZL00SLVDP.local:~/code/datalad/templateflow/tpl-MNIInfant timestamp=1582837259.912113s
 a05f8a6d-23d9-4c67-a639-d618847fabba oesteban@dendrite:~/templateflow/tpl-OASIS30ANTs timestamp=1641373146.683956s
 a0e1570b-e320-4ff2-8f54-3a5c1ddc786d runner@fv-az33:~/work/tpl-NKI/tpl-NKI/templateflow timestamp=1587665413.75102s
 a398f362-58e1-4363-b545-71cc7b7d8b2e oesteban@dendrite:~/tmp/templateflow timestamp=1607453204.603954s
@@ -107,6 +113,7 @@ b6f3314f-6efc-4a8a-9180-d7b56a5fabc5 runner@fv-az206-625:~/work/tpl-NKI/tpl-NKI/
 b9492b14-f794-49f4-9350-9abb0cf706ce root@ea66be5ad8b6:/github/workspace/templateflow timestamp=1641328185.743806s
 bc4b462d-e6f2-4d95-b16e-b5d268405af4 root@569b59b440b2:/github/workspace/templateflow timestamp=1641324940.666655s
 bce02119-7cdd-4d67-8a43-d4870f8e6b07 oesteban@oscars-MacBook-Pro.local:~/datalad/templateflow timestamp=1630446284.36471s
+c70e08ae-9b31-44ac-a577-b14d88819110 oesteban@dendrite:~/templateflow/tpl-MNIInfant timestamp=1641373136.396899s
 c79dad66-e8b6-492a-a25d-d4ef25319f95 runner@fv-az167-7:~/work/tpl-PNC/tpl-PNC/templateflow timestamp=1630012519.558192s
 c7b6c2b9-fc27-440a-9501-547f4983260e root@d223fb19c3df:/github/workspace/templateflow timestamp=1630446824.090976s
 c921da3e-a12a-46c1-9d43-05c6591826a5 s3 timestamp=1641385076.132019s
@@ -118,6 +125,7 @@ d0a4870a-d806-451a-b9f9-20a49472fc66 root@e1746a3940cd:/github/workspace/templat
 d0df914e-736a-483e-8132-b22948593264 public-s3 timestamp=1586363601.698857s
 d10016fd-b838-400a-9f3b-e1e45ffa68d8 root@5ef818c4528e:/github/workspace/templateflow timestamp=1630532168.155701s
 d1c26562-594c-4d3b-a5ac-f96a79a46a41 mathiasg@PSY-C02ZL00SLVDP.local:~/code/datalad/templateflow/tpl-OASIS30ANTs timestamp=1582837266.186569s
+d51b977b-adfc-4858-8eb3-cb0202c54a7c oesteban@oscars-MacBook-Pro.local:~/datalad/templateflow/tpl-MNIInfant timestamp=1630446310.176267s
 d5bf966a-72bb-4b68-8d59-c0abbcf26c56 MRI-Derived Neuroanatomical Atlas of the Fischer 344 Rat Brain timestamp=1596097469.789902s
 d8077409-4c71-4e4e-8d62-fb570cd94883 root@81e7bd358537:/github/workspace/templateflow timestamp=1630512648.969698s
 d8301b39-8069-4eb0-b75b-cf7c59a0b185 root@59a3eda4fbe0:/github/workspace/templateflow timestamp=1641325383.914402s
@@ -130,11 +138,13 @@ e6119538-a775-4d2b-88c2-f696543d89ec runner@fv-az33:~/work/tpl-WHS/tpl-WHS/templ
 e682157a-344e-4c69-8ed6-0d8c8fd0de87 root@3d476dd1ebb9:/github/workspace/templateflow timestamp=1630510734.898533s
 e9c64a84-5729-4e3c-981f-5f7a73c6c14e oesteban@dendrite:~/datalad/templateflow timestamp=1583282194.074384s
 ea2f899e-83ca-4107-84fe-23bc8abe0297 root@0d6c8ef478b5:/github/workspace/templateflow timestamp=1630505181.705044s
+eaecaafc-ae20-4ba9-bcf7-4020f45adffb oesteban@oscars-MacBook-Pro.local:~/tmp/templateflow/tpl-MNIInfant timestamp=1629966415.390919s
 ebb8a842-058f-48d7-b661-498ab69dc97a runner@fv-az78:~/work/tpl-MNI152Lin/tpl-MNI152Lin/templateflow timestamp=1587662509.502534s
 ebff7e31-1679-4383-abbc-428f93777faa runner@fv-az209-420:~/work/tpl-Fischer344/tpl-Fischer344/templateflow timestamp=1630013243.477177s
 ed97b3fe-5d93-49f9-99d2-449203cf90e2 root@673ccecd2f8f:/github/workspace/templateflow timestamp=1630446789.261466s
 ef892352-bf7a-4a35-baf9-0c989434151d runner@fv-az78:~/work/tpl-MNIPediatricAsym/tpl-MNIPediatricAsym/templateflow timestamp=1587665426.238922s
 f38683c7-9b2d-47b0-a21a-33b84d9366bb oesteban@oscars-MacBook-Pro.local:~/tmp/templateflow timestamp=1629966398.356222s
+f409c791-ce48-45bc-bd63-d657a6263b82 s3 timestamp=1641385190.83589s
 f985e189-917e-48ea-9243-4b1f55559aab root@f5f3b0226e40:/github/workspace/templateflow timestamp=1630446798.531486s
 fb4eff3e-d373-401f-81ac-85843604dcc3 root@a8db1e4fbe6d:/github/workspace/templateflow timestamp=1630446817.584051s
 fd20929b-fcb3-426a-99a9-b0059f294e13 runner@fv-az183-653:~/work/tpl-MNI152Lin/tpl-MNI152Lin/templateflow timestamp=1630012433.015044s
