@@ -13,6 +13,7 @@
 13c89e76-c2c0-4426-a842-94784a6a864b root@149843cce2d5:/github/workspace/templateflow timestamp=1630446776.879173s
 1527c634-5bd3-4752-9f79-ba31518ee644 root@b7b680c02411:/github/workspace/templateflow timestamp=1641324973.827391s
 15e844f2-ccca-4698-a213-cf618b251c9d root@a557b4ba71b8:/github/workspace/templateflow timestamp=1630446828.036418s
+1c987f68-a9b8-4beb-9ecf-1d957d1b5cd1 public-s3 timestamp=1596099291.07605s
 1ce8ebb4-5ff2-4088-a73e-e7d617eca89a root@822da29c2e74:/github/workspace/templateflow timestamp=1641325329.875881s
 1f4389ba-38f1-469b-855e-3f4245f102df git@8242caf9acd8:/data/repos/templateflow/tpl-mni152lin.git timestamp=1630070965.822758121s
 1f9f0f73-6892-4f40-b635-1f0d92cc3864 runner@fv-az32:~/work/tpl-fsaverage/tpl-fsaverage/templateflow timestamp=1587665375.898658s
@@ -24,6 +25,7 @@
 253fd5b4-ec7a-497a-b0df-c20b0dd20d2d root@23de80573064:/github/workspace/templateflow timestamp=1639568686.562547s
 26184139-f81c-458a-a83d-ab6736356a89 root@b60206600668:/github/workspace/templateflow timestamp=1630534349.024695s
 269ce1f7-e60c-4e27-be71-5638e9c0bcb4 root@6c7a8c350edd:/github/workspace/templateflow timestamp=1630502187.437954s
+29a520ef-d9a9-4605-a94a-f98762633106 oesteban@oscars-MacBook-Pro.local:~/datalad/templateflow/tpl-Fischer344 timestamp=1630446288.268403s
 2a46505b-155a-4629-b9be-301ff36fb61d runner@fv-az180-129:~/work/tpl-MNIInfant/tpl-MNIInfant/templateflow timestamp=1630012486.226069s
 2e0b560f-3060-4e2c-95c7-239b76ba6086 root@a6ea4a443e47:/github/workspace/templateflow timestamp=1630446774.165861s
 307718d7-0114-4430-b759-89c51bff09e2 oesteban@dendrite:~/templateflow timestamp=1641373117.779027s
@@ -34,17 +36,20 @@
 4268a506-8f97-4f1b-967c-6367cd32bd24 runner@fv-az177-346:~/work/tpl-fsaverage/tpl-fsaverage/templateflow timestamp=1630012546.987345s
 47e584a0-41f5-4a69-a2d8-103ee11eeb5d root@0b3ae572ff90:/github/workspace/templateflow timestamp=1641283569.323014s
 4836ae96-5051-47ef-b400-1875c4603170 runner@fv-az167-7:~/work/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym/templateflow timestamp=1630012462.723388s
+495c4362-e039-468a-9c2c-c12b4f06786a oesteban@oscars-MacBook-Pro.local:~/tmp/templateflow/tpl-Fischer344 timestamp=1629966401.011097s
 4afacc7c-69ce-4839-861b-cc31febb7d2d root@ea8523b2f553:/github/workspace/templateflow timestamp=1639295985.812102s
 4d2934ae-2f14-487a-b080-70cafcebb8f6 rastko@Rastkos-MacBook-Pro.local:~/Downloads/tpl-MNI152Lin timestamp=1544880035.041197s
 5051dd1f-b5e4-47e2-89e4-989c070aa543 git@82709b2ed170:/data/repos/templateflow/tpl-oasis30ants.git timestamp=1630071169.723082204s
 53cc586a-0d60-4e5c-9574-9e7e4b667775 root@5ce720f6edc4:/templateflow timestamp=1630441396.404094s
 575be514-3a9b-45a3-afb6-99bdb3d71340 root@77746fdfe18c:/github/workspace/templateflow timestamp=1630503008.38235s
+578dce89-b369-4775-ba0f-a3791676940e git@8242caf9acd8:/data/repos/templateflow/tpl-fischer344.git timestamp=1630070709.35914032s
 58d4eb91-b5b5-40e0-afb5-eb3c812ae408 root@48cdf4321035:/github/workspace/templateflow timestamp=1639569042.158696s
 599b1f14-60a7-46eb-b525-5ea34347f196 oesteban@dendrite:~/templateflow timestamp=1641386536.901103s
 59f7d178-ec86-47c2-80d6-11e82177b786 root@c5b14eefe3ab:/github/workspace/templateflow timestamp=1630533354.393209s
 5a0a6cec-9af1-4f4a-ad56-7d48a19ed2f3 root@d2445df58e5b:/github/workspace/templateflow timestamp=1630529756.095144s
 5a260b8a-8e3c-4df3-a4b7-a5623404a332 root@1d0af23111f0:/github/workspace/templateflow timestamp=1641325422.690911s
 5b782e57-fd88-4e65-9985-c77f8a406840 root@979fcebdc29a:/github/workspace/templateflow timestamp=1641325272.601646s
+5b8bdb48-53cf-4a99-b1f9-8e8af7bc7d24 oesteban@dendrite:~/datalad/templateflow/tpl-Fischer344 timestamp=1629991824.440664s
 5e16ed4c-8086-4ae9-b740-c1fb19fc565a oesteban@dendrite:~/templateflow timestamp=1546143263.707124989s
 5e39e1cf-4a7c-40b0-a77e-527cb83cef14 runner@fv-az209-420:~/work/tpl-fsLR/tpl-fsLR/templateflow timestamp=1630012545.093829s
 5fa4fb67-4eed-49be-b2c1-d32c16842ee8 root@ecb4740b7a25:/github/workspace/templateflow timestamp=1641283484.222742s
@@ -52,6 +57,7 @@
 60b4188c-8fa0-48e0-a168-ff736658bdf4 public-s3 timestamp=1586363844.673321s
 60c69b22-94b3-4952-ac0f-7595105c1a67 root@43d345b3e7d6:/github/workspace/templateflow timestamp=1641327334.395009s
 61cfb0df-e968-4448-a135-256c98b2344b runner@fv-az121:~/work/tpl-MNI152Lin/tpl-MNI152Lin/templateflow timestamp=1587663976.168435s
+61dfa942-0cd2-499c-84fe-44f1cff82fc9 s3 timestamp=1641385100.078773s
 629c7f76-ac73-4ff1-bfbf-29a909626fdf oesteban@dendrite:~/datalad/templateflow/tpl-MNI152Lin timestamp=1539932391.63235243s
 64ec3fc6-f642-4d7b-a148-870ce7161d04 root@a89a31b55c21:/github/workspace/templateflow timestamp=1636840263.737621s
 69be088a-27a4-496a-b526-2549da42ead0 root@82d03077579f:/github/workspace/templateflow timestamp=1641325193.63815s
@@ -59,6 +65,7 @@
 70d2c603-5115-4cdb-bf5a-dcc199632304 oesteban@dendrite:~/datalad/templateflow/tpl-MNI152Lin timestamp=1629991826.321971s
 746998d3-1190-4504-bc32-e083fd7539b0 root@2fac8fd882e1:/github/workspace/templateflow timestamp=1641295950.793863s
 74c262a5-9207-42b9-9ce5-a3c3d724023f runner@fv-az133-408:~/work/tpl-MNIPediatricAsym/tpl-MNIPediatricAsym/templateflow timestamp=1630012479.399555s
+751412dc-5ec0-41b8-9572-8ec306222fc3 oesteban@dendrite:~/templateflow/tpl-Fischer344 timestamp=1641373120.603895s
 75748708-8cf9-40b1-87af-ab833bdaaf9c runner@fv-az66:~/work/tpl-WHS/tpl-WHS/templateflow timestamp=1589308790.138438s
 76742e08-c33e-4cab-afa1-4d362a45ac41 root@b59e80a8a23f:/github/workspace/templateflow timestamp=1641325102.683126s
 771d211e-1edd-43ff-9001-b13b6423dee1 runner@fv-az209-420:~/work/tpl-WHS/tpl-WHS/templateflow timestamp=1630012541.755371s
@@ -111,6 +118,7 @@ d0a4870a-d806-451a-b9f9-20a49472fc66 root@e1746a3940cd:/github/workspace/templat
 d0df914e-736a-483e-8132-b22948593264 public-s3 timestamp=1586363601.698857s
 d10016fd-b838-400a-9f3b-e1e45ffa68d8 root@5ef818c4528e:/github/workspace/templateflow timestamp=1630532168.155701s
 d1c26562-594c-4d3b-a5ac-f96a79a46a41 mathiasg@PSY-C02ZL00SLVDP.local:~/code/datalad/templateflow/tpl-OASIS30ANTs timestamp=1582837266.186569s
+d5bf966a-72bb-4b68-8d59-c0abbcf26c56 MRI-Derived Neuroanatomical Atlas of the Fischer 344 Rat Brain timestamp=1596097469.789902s
 d8077409-4c71-4e4e-8d62-fb570cd94883 root@81e7bd358537:/github/workspace/templateflow timestamp=1630512648.969698s
 d8301b39-8069-4eb0-b75b-cf7c59a0b185 root@59a3eda4fbe0:/github/workspace/templateflow timestamp=1641325383.914402s
 d8dd3fbf-8101-48ce-8d6c-22c0a08063e0 runner@fv-az33:~/work/tpl-OASIS30ANTs/tpl-OASIS30ANTs/templateflow timestamp=1587665405.102025s
